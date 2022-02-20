@@ -13,8 +13,8 @@ known_faces = [
   known_img_1_encode,
 ]
 known_names = [
-  'Somon',
-  'Reach',
+  'NAME 1',
+  'NAME 2',
 ]
 
 if __name__ == "__main__":
